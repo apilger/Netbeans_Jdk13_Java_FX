@@ -1,1 +1,1 @@
-# Netbeansprojekt für JavaFX und jdk >=11
+# Netbeansprojekt mit JavaFX und jdk >=11
